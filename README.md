@@ -1,6 +1,40 @@
 # automation
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #install fabric
 #pip install fabric
 #mkdir fabric_project
