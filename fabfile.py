@@ -1,3 +1,6 @@
+#from fabric.api import * to import all the functions and objects from the fabric.api module. 
+#This allows you to use Fabric's functions and objects without specifying the module's name explicitly
+
 from fabric.api import *
 env.user = 'devops'
 def greeting(msg):
